@@ -35,14 +35,14 @@ Welcome to **EpiCass & CassavaNet4Dev** advanced bioinformatics workshop and min
 | **Mini-symposium** | 
 |:------------------ |
 |**10:00-10:30** Greetings and EpiCass Introduction -  **_Erik Bongcam-Rudloff_** , SLU Uppsala Sweden
-|**10:30-11:10** Plant Epigenetics and population epigenetics - **_Ueli Grossniklaus_** , University of Zurich|
+|**10:30-11:10** Plant Epigenetics and population epigenetics - [**_Ueli Grossniklaus_**](https://swissplantscienceweb.unibas.ch/en/grossniklaus/) , University of Zurich|
 |**11:10-11:30** Coffee Break|
-|**11:30-12:10** Epigenetics in trees: _Populus Trichocarpa_ - **_Frank Johannes_** , Technical University of Munich, Germany |
-|**12:10-13:00** Epigenetics and biotic stress -  **_Claude Becker_** , Ludwig Maximilians University, Munich, Germany |
+|**11:30-12:10** Epigenetics in trees: _Populus Trichocarpa_ - [**_Frank Johannes_**](http://www.johanneslab.org/) , Technical University of Munich, Germany |
+|**12:10-13:00** Epigenetics and biotic stress - [**_Claude Becker_**](https://www.lsm.bio.lmu.de/faculty/current-members/claude-becker/index.html) , Ludwig Maximilians University, Munich, Germany |
 |**13:00-15:00** Lunch Break|
 |**15:00-15:50** Viral diseases in cassava -  **_Stefan Winter_** , DSMZ Plant Virus Department, Germany |
-|**15:50-1640** Molecular cassava breeding - **_Ismail Rabbi_** , International Institute of Tropical Agriculture, Ibadan |
-|**16:40-1730** Epigenetics for crop improvement -  **_Chad Niederhuth_**, Michigan State University, East Lansing, USA  |
+|**15:50-1640** Molecular cassava breeding - [**_Ismail Rabbi_**](https://www.iita.org/iita-staff/rabbi-ismail/) , International Institute of Tropical Agriculture, Ibadan |
+|**16:40-1730** Epigenetics for crop improvement -  [**_Chad Niederhuth_**](https://plantbiology.natsci.msu.edu/directory/chad-niederhuth/), Michigan State University, East Lansing, USA  |
 |**17:30-18:00** Discussion - **_Erik Bongcam Rudloff and Andreas Gisel_**|
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/47971974/160561521-19768930-f00e-4f07-bbe9-8b61e1cf5de4.png">
