@@ -9,19 +9,12 @@
 **Michael Landi**, PhD Student IITA, Nairobi <br/>
 [**Andreas Gisel**](https://www.iita.org/iita-staff/gisel-andreas/). IITA, Nairobi  <br/>
 
-<br/>
-<br/>
-
 ![image](https://user-images.githubusercontent.com/47971974/160536365-1d1c86e6-b8a9-45e9-9c76-34519ae1ddcc.png)
 ![image](https://user-images.githubusercontent.com/47971974/160536753-7f8b3fbe-f394-4c05-929c-9cb19b050342.png)
-
-<br/>
-<br/>
 
 **Bioinformatics workshop program (time in EAT)**
 
 ### Stage one 
-
 | **Day** | **Morning Session** | **Afternoon Session** |
 |:------------------ |:---------------------- | :------------------------------------- |
 | One | **10:00-10:30** Greetings <br/> **_Erik Bongcam-Rudloff_**, SLU Uppsala Sweden; coordinator EpiCass <br/> **_Lenna Tripati_**, IITA Hub Director Eastern Africa <br/> **_David Chikoye_**, IITA Hub Director Southern Africa <br/> **_Michael Abberton_**, IITA Hub Director Western Africa <br/> <br/> **10:30-11:20** Introduction to Linux - part one introduction - **_Erik Bongcam-Rudloff_** , SLU Uppsala Sweden <br/><br/> **11:20-12:10** Introduction to Linux - part two - basic commands - **_Michael Landi_** , IITA Nairobi <br/><br/> **12:10-13:00** Introduction to Linux - part three - advanced commands - **_Temitayo Olagunju_** , IITA Ibadan <br/><br/> **13:00-14:00** Lunch Break | **14:00-15:00** Introduction to UGENE - **_Erik Bongcam-Rudloff_** , SLU Uppsala Sweden <br/><br/> **15:00-18:00** Hands-on for Linux - practical session <br/><br/> **Local teachers:** <br/> **Lusaka:** Andreas Gisel <br/> **Arusha:** Trushar Shah <br/> **Ibadan:** Temitayo Olagunju <br/> **Nairobi:** Michael Landi and Bernice Waweru <br/> **Dar-es-Salaam:** Herrieth Mero and Erik Bongcam-Rudloff |
