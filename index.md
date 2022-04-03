@@ -1,11 +1,5 @@
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/47971974/160536590-fa8454e4-021e-4959-b625-9faa51b4ac60.png">
 
-![image](https://user-images.githubusercontent.com/47971974/160536365-1d1c86e6-b8a9-45e9-9c76-34519ae1ddcc.png)
-![image](https://user-images.githubusercontent.com/47971974/160536753-7f8b3fbe-f394-4c05-929c-9cb19b050342.png)
-
-**Bioinformatics workshop program (time in EAT)**
-<br/>
-<br/>
 **Organizers:** <br/>
 [**Erik Bongcam-Rudloff**](https://www.slu.se/en/ew-cv/erik-bongcam-rudloff/), SLU, Uppsala, Sweden <br/>
 [**Livia Stavalone**](https://bioscience.iita.org/team-member/livia-stavolone/), IPSP-CNR, Bari, Italy <br/>
@@ -15,6 +9,16 @@
 **Michael Landi**, PhD Student IITA, Nairobi <br/>
 [**Andreas Gisel**](https://www.iita.org/iita-staff/gisel-andreas/). IITA, Nairobi  <br/>
 
+<br/>
+<br/>
+
+![image](https://user-images.githubusercontent.com/47971974/160536365-1d1c86e6-b8a9-45e9-9c76-34519ae1ddcc.png)
+![image](https://user-images.githubusercontent.com/47971974/160536753-7f8b3fbe-f394-4c05-929c-9cb19b050342.png)
+
+<br/>
+<br/>
+
+**Bioinformatics workshop program (time in EAT)**
 
 ### Stage one 
 
@@ -27,6 +31,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/47971974/160553822-e94ceb7a-edd3-4752-a214-fbf49fe5f396.png)
+![image](https://user-images.githubusercontent.com/47971974/161420792-bfa4a013-4aaa-47f6-8f29-a594b03ca0ee.png)
 
 
 
