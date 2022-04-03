@@ -6,16 +6,17 @@
 
 Welcome to **EpiCass & CassavaNet4Dev** advanced bioinformatics workshop and mini-symposium.
 
-## Bioinformatics workshop program (time in EAT)
+**Bioinformatics workshop program (time in EAT)**
+<br/>
 <br/>
 **Organizers:** <br/>
-[Erik Bongcam-Rudloff](https://www.slu.se/en/ew-cv/erik-bongcam-rudloff/), SLU, Uppsala, Sweden <br/>
-[Livia Stavalone](https://bioscience.iita.org/team-member/livia-stavolone/), IPSP-CNR, Bari, Italy <br/>
-[Laurent Falquet](https://www.unifr.ch/bio/en/groups/falquet/people/4717/3900b), UniFr, Switzerland <br/>
-[Adnan Niazi](https://www.slu.se/cv/adnan-niazi/) SLU, Uppsala, Sweden <br/>
-[Trushar Shah](https://www.iita.org/iita-staff/shah-trushar/), IITA, Nairobi, Kenya <br/> 
-[Michael Landi], PhD Student IITA, Nairobi <br/>
-[Andreas Gisel](https://www.iita.org/iita-staff/gisel-andreas/). IITA, Nairobi  <br/>
+[**Erik Bongcam-Rudloff**](https://www.slu.se/en/ew-cv/erik-bongcam-rudloff/), SLU, Uppsala, Sweden <br/>
+[**Livia Stavalone**](https://bioscience.iita.org/team-member/livia-stavolone/), IPSP-CNR, Bari, Italy <br/>
+[**Laurent Falquet**](https://www.unifr.ch/bio/en/groups/falquet/people/4717/3900b), UniFr, Switzerland <br/>
+[**Adnan Niazi**](https://www.slu.se/cv/adnan-niazi/) SLU, Uppsala, Sweden <br/>
+[**Trushar Shah**](https://www.iita.org/iita-staff/shah-trushar/), IITA, Nairobi, Kenya <br/> 
+**Michael Landi**, PhD Student IITA, Nairobi <br/>
+[**Andreas Gisel**](https://www.iita.org/iita-staff/gisel-andreas/). IITA, Nairobi  <br/>
 
 
 ### Stage one 
