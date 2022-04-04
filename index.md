@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/47971974/160536365-1d1c86e6-b8a9-45e9-9c76-34519ae1ddcc.png)
 ![image](https://user-images.githubusercontent.com/47971974/160536753-7f8b3fbe-f394-4c05-929c-9cb19b050342.png)
 
-**Bioinformatics workshop program (time in EAT)**
+**Bioinformatics workshop program (time in [EAT](https://www.timeanddate.com/worldclock/kenya))**
 
 ### Stage one 
 
