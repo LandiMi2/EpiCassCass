@@ -7,7 +7,7 @@
 [**Adnan Niazi**](https://www.slu.se/cv/adnan-niazi/) SLU, Uppsala, Sweden <br/>
 [**Trushar Shah**](https://www.iita.org/iita-staff/shah-trushar/), IITA, Nairobi, Kenya <br/> 
 **Michael Landi**, PhD Student IITA, Nairobi <br/>
-[**Andreas Gisel**](https://www.iita.org/iita-staff/gisel-andreas/). IITA, Ibadan  <br/>
+[**Andreas Gisel**](https://www.iita.org/iita-staff/gisel-andreas/). IITA, Ibadan, Nigeria  <br/>
 
 ![image](https://user-images.githubusercontent.com/47971974/160536365-1d1c86e6-b8a9-45e9-9c76-34519ae1ddcc.png)
 ![image](https://user-images.githubusercontent.com/47971974/160536753-7f8b3fbe-f394-4c05-929c-9cb19b050342.png)
